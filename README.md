@@ -17,7 +17,7 @@ Evento exclusivo e gratuito, promovido pela DevEmDobro para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Cards Pokémom" src="https://github.com/Valdeneir/CardsPokemon/blob/main/src/imagens/CardPokemo.jpg?raw=true" width="100%">
+  <img alt="Cards Pokémom" src="https://github.com/Valdeneir/CardsPokemon/blob/main/src/imagens/CardPokemo.jpg?raw=true" width="75%">
 </p>
 
 ## 🚀 Tecnologias

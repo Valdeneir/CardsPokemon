@@ -31,7 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Exibe cards Pokémom com o seu tipo e características, onde é possível alternar entre cards através das setas.
-Clique <a href="https://valdeneir.github.io/CardsPokemon/">Aqui</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; para ver o projeto.
+
+<p>Clique <a href="https://valdeneir.github.io/CardsPokemon/">Aqui</a> para ver o projeto. </p>
 
 
 
